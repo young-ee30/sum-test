@@ -1,2 +1,1 @@
-# bob_test
-gilgil class 
+# sum-test
